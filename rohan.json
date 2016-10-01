@@ -1,0 +1,10 @@
+{
+    "firstName":"Rohan",
+    "lastName":"Badal",
+    "age":14,
+    "picture": "https://pbs.twimg.com/profile_images/425447212626083840/DqyqYfax.jpeg",
+    "nickNames": [
+        {"nick": "Ro"},
+        {"nick": "Han"}
+    ]
+}
